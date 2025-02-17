@@ -1,6 +1,6 @@
 {
     "type": "code",
-    "side": "server",
+    "side": "universal",
     "modid": "dischiselblock",
     "name": "Disassemble Chiseled Block",
     "description": "Allows to disassemble placed chiseled block using command",

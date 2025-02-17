@@ -15,7 +15,7 @@
     "Client-Flat": {
       "commandName": "Executable",
       "executablePath": "dotnet",
-      "commandLineArgs": "\"$(VINTAGE_STORY)/Vintagestory.dll\"  --openWorld \"test world\" --tracelog --addModPath \"$(ProjectDir)/bin/$(Configuration)/Mods\"",
+      "commandLineArgs": "\"$(VINTAGE_STORY)/Vintagestory.dll\" --openWorld \"test world\" --tracelog --addModPath \"$(ProjectDir)/bin/$(Configuration)/Mods\"",
       "workingDirectory": "$(VINTAGE_STORY)"
     },
     "Server-Flat": {

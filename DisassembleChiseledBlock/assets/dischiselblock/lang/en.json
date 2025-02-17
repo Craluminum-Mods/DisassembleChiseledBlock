@@ -1,0 +1,4 @@
+{
+    "command-error-no-chiseled-block": "Not looking at placed chiseled block!",
+    "command-error-no-required-tools": "Requires <strong>hammer</strong> in offhand and <strong>chisel</strong> in active hand to disassemble chiseled block"
+}
