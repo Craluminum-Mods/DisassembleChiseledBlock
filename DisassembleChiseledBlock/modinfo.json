@@ -3,7 +3,7 @@
     "side": "server",
     "modid": "dischiselblock",
     "name": "Disassemble Chiseled Block",
-    "description": "Allows to disassemble chiseled block in crafting grid",
+    "description": "Allows to disassemble placed chiseled block using command",
     "authors": ["Craluminum2413"],
-    "version": "1.0.0"
+    "version": "2.0.0"
 }
